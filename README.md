@@ -1,0 +1,1 @@
+Olá que, este projeto inicia os estudos com Git
